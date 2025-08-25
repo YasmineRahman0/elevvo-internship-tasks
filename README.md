@@ -3,6 +3,7 @@ Elevvo Internship – Machine Learning Projects
 This repository contains the projects I completed during my internship at Elevvo Pathways. Each project gave me hands-on experience with real-world data and enhanced my skills in machine learning, data preprocessing, model building, and evaluation.
 
 📌 Projects Completed
+
 🔹 Student Score Prediction
 
 Built a regression model to analyze key factors influencing student performance.
